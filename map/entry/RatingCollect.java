@@ -1,3 +1,18 @@
+/*
+*The below is the sample input and output
+Enter the number of lines
+2
+Enter the line of movies and ratings
+Fana 44.55,Ravan 99.99,Rama 33.33,Fana 66.33
+Fana 55.4400 2
+Rama 33.3300 1
+Ravan 99.9900 1
+Enter the line of movies and ratings
+Legend 22.22,Legend 44.44,Legend 66.66,Rampage 44.44,Rampage 65.65
+Legend 44.4400 3
+Rampage 55.0450 2
+*/
+
 package com.map.entry;
 
 import java.util.HashMap;
